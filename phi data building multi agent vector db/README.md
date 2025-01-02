@@ -13,7 +13,5 @@ This project demonstrates Retrieval-Augmented Generation (RAG) using PhiData wit
 
 ## Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/rag-phidata.git
-   cd rag-phidata
+1. You can add multiple agents for specific usecase
+   ## https://docs.phidata.com/examples/agents/
