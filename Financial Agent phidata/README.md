@@ -73,7 +73,7 @@ This project is open-source. Feel free to use and modify as needed.
 
 ## Further Detail
 https://docs.phidata.com/introduction
-This code sets up a team of specialized AI agents using the Phi framework, each with a unique role:
+- This code sets up a team of specialized AI agents using the Phi framework, each with a unique role:
 Sentiment Agent: Searches for news articles, analyzes sentiment, and assigns scores with citations.
 
 Finance Agent: Fetches financial data like stock prices and analyst recommendations, highlighting trends in a structured format.
